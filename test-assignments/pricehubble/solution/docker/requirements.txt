@@ -1,0 +1,6 @@
+# No manual version control for test case, use default
+
+duckdb
+pyarrow
+apache-airflow==2.8.*
+apache-airflow-providers-docker
