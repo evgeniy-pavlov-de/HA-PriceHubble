@@ -5,7 +5,7 @@ Welcome to my private repository! This space is dedicated to documenting and org
 ## 📁 Repository Structure
 
 - `interview_assignments/` - Solutions and documentation for interview tests.
-- `pet_projects/` - Personal projects exploring data engineering concepts.
+- `data_engineering_projects/` - Personal projects exploring data engineering concepts.
 - `docs/` - Additional documentation, notes, and references.
 
 ## 🚀 Purpose
